@@ -39,11 +39,6 @@
     ],
     "broadcast_temp": {},
     "accounts": [
-        "deepamrai93@gmail.com:kalimpong93",
-        "digit.a.l.pa.cks22@gmail.com:123456789Asd",
-        "edgar_stiven@icloud.com:edgar161310",
-        "jahsiyahrattler@gmail.com:Ahmere22@",
-        "ilansamuelpalmatorres@gmail.com:ILANsamuel2777",
         "jaylapointe13@gmail.com:Kinglapointe1",
         "julius26pearson@gmail.com:Happ!Jun1or",
         "Luffydragneel200+23@gmail.com:corazones01",
@@ -182,9 +177,9 @@
             "redeemed_by": 5603446046
         },
         "BHAINKAR-7JPQ-ZGEM": {
-            "used": false,
+            "used": true,
             "reward": "albertoleyvahernandez@gmail.com:Jeisenjot0",
-            "redeemed_by": null
+            "redeemed_by": 5630595193
         },
         "BHAINKAR-WAKF-ZM8T": {
             "used": true,
@@ -192,9 +187,9 @@
             "redeemed_by": 1188271910
         },
         "BHAINKAR-W51T-GWEW": {
-            "used": false,
+            "used": true,
             "reward": "b0ug0629@icloud.com:Seahawks1#",
-            "redeemed_by": null
+            "redeemed_by": 5630595193
         },
         "BHAINKAR-2LVS-0DXQ": {
             "used": true,
@@ -255,6 +250,31 @@
             "used": true,
             "reward": "Dreamstone42@gmail.com:4Lovethis!",
             "redeemed_by": 5727462573
+        },
+        "BHAINKAR-QE07-OQA3": {
+            "used": true,
+            "reward": "deepamrai93@gmail.com:kalimpong93",
+            "redeemed_by": 5820738083
+        },
+        "BHAINKAR-YGHH-17TE": {
+            "used": true,
+            "reward": "digit.a.l.pa.cks22@gmail.com:123456789Asd",
+            "redeemed_by": 5622951533
+        },
+        "BHAINKAR-PRC2-26CF": {
+            "used": true,
+            "reward": "edgar_stiven@icloud.com:edgar161310",
+            "redeemed_by": 5622951533
+        },
+        "BHAINKAR-61MY-UBKT": {
+            "used": true,
+            "reward": "jahsiyahrattler@gmail.com:Ahmere22@",
+            "redeemed_by": 1452444910
+        },
+        "BHAINKAR-TFZF-R8RF": {
+            "used": true,
+            "reward": "ilansamuelpalmatorres@gmail.com:ILANsamuel2777",
+            "redeemed_by": 1250189315
         }
     },
     "redeemed_users": {
@@ -271,6 +291,11 @@
         "5622951533": "BHAINKAR-3J68-9GSL",
         "1785834558": "BHAINKAR-P8QE-MY9P",
         "1250189315": "BHAINKAR-ORG0-U3PI",
-        "7313311166": "BHAINKAR-PC8B-WSVP"
+        "7313311166": "BHAINKAR-PC8B-WSVP",
+        "1452444910": "BHAINKAR-61MY-UBKT",
+        "1250189315": "BHAINKAR-TFZF-R8RF",
+        "5820738083": "BHAINKAR-QE07-OQA3",
+        "5622951533": "BHAINKAR-YGHH-17TE",
+        "5630595193": "BHAINKAR-7JPQ-ZGEM"
     }
 }
